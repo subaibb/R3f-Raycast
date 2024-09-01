@@ -5,4 +5,4 @@ the first model i created in r3f with a raycast interaction<br/>
 [![GitHub Suhaib](https://img.shields.io/github/followers/subaibb?label=follow&style=social)](https://github.com/subaibb)
 
 <h2>Testing Out</h2>
-You can check out and test out the sample on <a href"https://codesandbox.io/p/sandbox/raycast-r3f-5k9976">CodeSandBox.io</a>
+You can check out and test out the sample on <a href="https://codesandbox.io/p/sandbox/raycast-r3f-5k9976">CodeSandBox.io</a>
